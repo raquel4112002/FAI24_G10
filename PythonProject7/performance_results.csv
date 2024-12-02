@@ -1,0 +1,4 @@
+Strategy,WallTime,Conflicts,Branches,Makespan,ProcessTime,Efficiency
+AUTOMATIC_SEARCH,0.017,0,0,10.0,0.028,100.0
+FIXED_SEARCH,0.013,1,9,10.0,0.014,100.0
+PORTFOLIO_SEARCH,0.012,1,0,10.0,0.013,100.0
